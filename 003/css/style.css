@@ -1,0 +1,11 @@
+body{
+   display: flex;
+   justify-content: center;
+   margin-top: 3em;
+   background-color: 6F7295;
+   perspective: 1000px;
+}
+.button{
+   transition: background .3s easy-in,
+   transform .2s .1s easy-in-out
+}
