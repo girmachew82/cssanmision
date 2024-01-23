@@ -1,0 +1,6 @@
+.robot{
+   transform: translateX(300px);
+   transform: translateX(100%);
+   transform: translate(100px, 200px);
+   transform: translate(100px, 200px) scale(2) rotate(45deg);
+}
